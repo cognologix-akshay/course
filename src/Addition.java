@@ -8,6 +8,8 @@ public class Addition {
         int b = 20;
         int c = 0;
 
+        System.out.println("the addition of the number");
+
         c=a+b;
 
         System.out.println("The addition of three number is =" + c);
