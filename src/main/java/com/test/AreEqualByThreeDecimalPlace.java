@@ -1,3 +1,5 @@
+//Write a method areEqualByThreeDecimalPlaces with two parameters of type double.
+
 package com.test;
 
 public class AreEqualByThreeDecimalPlace {
