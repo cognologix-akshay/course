@@ -1,4 +1,4 @@
-// The number which is divisible by 3 as well as 5 ,range is between 1 to 1000
+// The number which is divisible by 3 as well as 5 ,range is in between 1 to 1000
 
 package com.test;
 
