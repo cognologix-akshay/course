@@ -29,7 +29,7 @@ class Calulator1
     }
 }
 
-public class Calulator {
+ class Calculator {
     public static void main(String[] args) {
 
         Scanner sobj = new Scanner(System.in);
