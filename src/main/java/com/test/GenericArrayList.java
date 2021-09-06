@@ -16,7 +16,8 @@ class  GenArr<X,Y>
 public class GenericArrayList {
     public static void main(String[] args) {
         java.util.ArrayList<String> aobj=new ArrayList<String>();
-        GenArr<String,Integer> hobj=new GenArr<>();
+        GenArr<String,Integer> hobj=new GenArr<>();    // GenArr hobj=new GenArr();
+
         hobj.Add("akshay",1234);
 
     }
