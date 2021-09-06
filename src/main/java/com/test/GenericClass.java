@@ -41,5 +41,8 @@ public class GenericClass {
         hobj2.mott(11,"Ambure");
 
 
+
+
+
     }
 }
